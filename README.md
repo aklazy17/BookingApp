@@ -50,6 +50,9 @@ Ensure you have the following installed:
 
    Swagger allows you to view, test, and interact with all API endpoints in a user-friendly interface.
 
+## CSV File Processing with CSVHelper
+The **CSVHelper** library is used to import and export booking data in CSV format efficiently.
+
 ## Running Tests
 
 To execute the tests, navigate to the tests directory and run:
@@ -62,5 +65,6 @@ This command will run all tests, ensuring application stability.
 
 ## Acknowledgements
 - **InMemory Database**: Used for quick development and testing.
+- **CSVHelper**: Provides fast and reliable CSV file processing.
 - **Swagger UI**: Enables easy API exploration and testing.
 - **.NET & C# Community**: For resources and support.
